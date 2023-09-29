@@ -43,7 +43,7 @@ def main():
         if ball.check_left_wall_collision(left_paddle, right_paddle):
             score_renderer.add_score_right()
         if ball.check_right_wall_collision(window_width, left_paddle, right_paddle):
-            score_renderer.add_score_right()
+            score_renderer.add_score_left()
         ball.check_roof_collision(window_height)
         ball.check_paddle_collision(left_paddle, right_paddle)
 
