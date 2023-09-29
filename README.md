@@ -1,8 +1,11 @@
-﻿# pong-uff.py
+# Pong UFF - Jogo de Ping Pong em Python
 
-##### Install Pygame and PPlay
+Este é um simples jogo de Pong criado no Laboratório de Programação de Jogos na Universidade Federal Fluminense (UFF).
 
-#####pip install pygame
-#####pip install pplay-pygame
+## Instalação
 
-###### UFF - Laboratório de Programação de Jogos
+Antes de começar a jogar, certifique-se de que você tenha o Pygame e o PPlay instalados. Você pode fazer isso facilmente usando o pip:
+
+```bash
+pip install pygame
+pip install pplay-pygame
