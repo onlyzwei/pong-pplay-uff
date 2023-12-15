@@ -4,7 +4,7 @@ Este é um simples jogo de Pong criado no Laboratório de Programação de Jogos
 
 ## Instalação
 
-Antes de começar a jogar, certifique-se de que você tenha o Pygame e o PPlay instalados. Você pode fazer isso facilmente usando o pip:
+Antes de começar a jogar, instale o Pygame e o PPlay. Você pode fazer isso facilmente usando o pip:
 
 ```bash
 pip install pygame
