@@ -1,15 +1,15 @@
-# Ray Tracing Básico
+# Pong pplay
 
-Este projeto apresenta uma implementação básica e inocente de Ray Tracing, utilizando o algoritmo de Bresenham para desenhar as linhas de maneira mais eficiente.
+Este é um simples jogo de ping-pong criado no Laboratório de Programação de Jogos na Universidade Federal Fluminense (UFF).
 
-## Pré-requisitos
+## Instalação
 
-Certifique-se de ter o `gcc` e o `make` instalados em sua máquina. Caso não tenha, instale-os.
-
-## Como Rodar
-
-Para compilar e executar o projeto, basta executar o seguinte comando no terminal:
+Antes de começar a jogar, instale o Pygame. Você pode fazer isso facilmente usando o pip:
 
 ```bash
-make clean && make && make run
+pip install pygame
 ```
+<p align="center">
+  <img src="pong.gif" alt="" />
+</p>
+
