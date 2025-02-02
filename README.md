@@ -1,16 +1,15 @@
-# Pong UFF - Jogo de Ping Pong em Python
+# Ray Tracing Básico
 
-Este é um simples jogo de Pong criado no Laboratório de Programação de Jogos na Universidade Federal Fluminense (UFF).
+Este projeto apresenta uma implementação básica e inocente de Ray Tracing, utilizando o algoritmo de Bresenham para desenhar as linhas de maneira mais eficiente.
 
-## Instalação
+## Pré-requisitos
 
-Antes de começar a jogar, instale o Pygame e o PPlay. Você pode fazer isso facilmente usando o pip:
+Certifique-se de ter o `gcc` e o `make` instalados em sua máquina. Caso não tenha, instale-os.
+
+## Como Rodar
+
+Para compilar e executar o projeto, basta executar o seguinte comando no terminal:
 
 ```bash
-pip install pygame
-pip install pplay-pygame
+make clean && make && make run
 ```
-<p align="center">
-  <img src="pong.gif" alt="" />
-</p>
-
